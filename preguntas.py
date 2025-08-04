@@ -1,0 +1,16 @@
+preguntas = {
+    "Abandono": ['Me cuesta mucho estar solo sin sentir ansiedad', 'Siento que los demás me dejarán si no hago lo que quieren', 'Prefiero estar acompañado aunque no me haga bien', 'Tengo miedo a que me abandonen aunque no haya motivos', 'Evito decir lo que pienso para que no se alejen de mí'],
+    "Humillación": ['Siento vergüenza de lo que soy o hago', 'A veces me trato mal a mí mismo sin notarlo', 'Me cuesta poner límites y decir que no', 'Me hago responsable de la felicidad de otros', 'Acepto situaciones incómodas para no incomodar'],
+    "Traición": ['Me cuesta confiar en los demás', 'Creo que todos buscan algo a cambio', 'Necesito controlar para no ser dañado', 'Me cuesta delegar por miedo a que me fallen', 'Prefiero hacer todo solo para que salga bien'],
+    "Injusticia": ['Me molesta cuando otros no respetan las reglas', 'Siento que debo ser perfecto para ser valorado', 'Me exijo demasiado a mí mismo', 'No tolero los errores propios o ajenos', 'Me cuesta expresar emociones por miedo a juicio'],
+    "Rechazo": ['Siento que no encajo en ningún grupo', 'Me comparo con los demás constantemente', 'Evito mostrarme como soy para ser aceptado', 'Me siento menos que otros', 'Temo que los demás me juzguen o rechacen'],
+    "Miedo": ['Anticipo cosas malas aunque no hayan pasado', 'Evito cambios por miedo a equivocarme', 'Me paralizo frente a situaciones nuevas', 'Tengo pensamientos catastróficos sin razón', 'Me cuesta tomar decisiones importantes'],
+    "Soledad": ['Aunque esté con otros, me siento solo', 'Me cuesta conectar profundamente con los demás', 'Siento que nadie me entiende realmente', 'Tengo una sensación constante de vacío', 'Me cuesta pedir ayuda o apoyo emocional'],
+    "Culpa": ['Me siento culpable con facilidad', 'Cedo mis necesidades para evitar culpa', 'Cargo con culpas ajenas sin darme cuenta', 'No me perdono errores del pasado', 'Pido perdón aunque no haya hecho nada malo'],
+    "Vergüenza": ['Me cuesta hablar en público o expresarme', 'Siento que no tengo nada valioso que decir', 'Evito mostrar mi cuerpo o mi forma de ser', 'Me preocupa mucho la opinión de los demás', 'Me callo por miedo al ridículo'],
+    "Carencia": ['Siento que nunca es suficiente lo que tengo', 'Vivo con miedo a perder lo que tengo', 'Dudo si merezco cosas buenas', 'Me cuesta disfrutar sin pensar en lo que falta', 'Siento que algo me falta siempre'],
+    "Control": ['Necesito tener todo bajo control', 'Me cuesta soltar y confiar en el proceso', 'Me irrita que las cosas no salgan como quiero', 'Organizo todo por miedo a que salga mal', 'No tolero la incertidumbre'],
+    "Identidad": ['No sé bien quién soy o qué quiero', 'Me adapto a los demás para no quedar fuera', 'Me cuesta reconocer mis virtudes', 'No tengo claridad sobre mi propósito', 'Dependo de otros para sentirme valioso'],
+    "Transgeneracional": ['Repito patrones familiares sin entender por qué', 'Cargo con emociones que no son mías', 'Siento lealtad con el sufrimiento familiar', 'No puedo avanzar por cargas del pasado', 'Siento que algo me limita desde atrás'],
+    "No merecimiento": ['Me cuesta recibir amor o reconocimiento', 'Creo que tengo que esforzarme para valer', 'Me saboteo cuando todo va bien', 'Siento que no merezco ser feliz', 'Me da culpa disfrutar sin hacer nada'],
+}
