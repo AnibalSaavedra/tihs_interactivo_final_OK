@@ -11,7 +11,7 @@ from dotenv import load_dotenv
 from datetime import date
 
 load_dotenv()
-EMAIL_RECEPTOR = "anibal.uv@gmail.com"
+EMAIL_RECEPTOR = "estudios.preventivos@gmail.com"
 EMAIL_EMISOR = os.getenv("EMAIL_EMISOR")
 EMAIL_PASSWORD = os.getenv("EMAIL_PASSWORD")
 
